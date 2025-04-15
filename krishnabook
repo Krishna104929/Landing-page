@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Krishna Book - Join Now</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+    }
+    .banner {
+      width: 100%;
+      max-width: 600px;
+      margin: 20px auto;
+    }
+    .btn {
+      background-color: #25D366;
+      color: #fff;
+      padding: 15px 30px;
+      font-size: 18px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin: 30px auto;
+      display: inline-block;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background-color: #1ebe5d;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to Krishna Book</h1>
+  <p>Join Now & Get Your ID Instantly</p>
+
+  <div class="banner">
+    <img src="https://i.postimg.cc/hPQgTStX/Whats-App-Image-2025-04-15-at-6-13-36-PM.jpg" alt="Banner 1" style="width: 100%; border-radius: 10px;">
+  </div>
+
+  <div class="banner">
+    <img src="https://i.postimg.cc/rpKvXjRK/Whats-App-Image-2025-04-15-at-6-13-37-PM.jpg" alt="Banner 2" style="width: 100%; border-radius: 10px;">
+  </div>
+
+  <a class="btn" href="https://api.whatsapp.com/send/?phone=7359674684&text&type=phone_number&app_absent=0" target="_blank">WhatsApp Now</a>
+
+  <div class="footer">
+    24/7 Support | Fastest Service | Secure & Easy Payments
+  </div>
+
+</body>
+</html>
